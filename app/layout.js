@@ -9,7 +9,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata = {
-  title: "BetaLeasing",
+  title: "Beta Leasing",
   description: "Beta Leasing es una empresa de arrendamiento",
 };
 
