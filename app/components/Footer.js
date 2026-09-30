@@ -12,9 +12,9 @@ export default function Footer() {
         />
         <div className="text-xs text-center flex flex-col gap-1">
           <div className="font-bold mb-1">Oficinas</div>
-          Newton 186 Int. 401, Polanco,
+          Mariano Escobedo 350 - 301, Anzures,
           <br />
-          CDMX. CP 11560
+          CDMX. CP 11590
           <br />
           México
         </div>
@@ -46,9 +46,9 @@ export default function Footer() {
         {/* Oficinas */}
         <div className="text-xs text-left flex flex-col justify-start min-w-[220px]">
           <div className="font-bold mb-1">Oficinas</div>
-          Newton 186 Int. 401, Polanco,
+          Mariano Escobedo 350 - 301, Anzures,
           <br />
-          CDMX. CP 11560
+          CDMX. CP 11590
           <br />
           México
         </div>

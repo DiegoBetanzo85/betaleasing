@@ -129,12 +129,12 @@ export default function ContactForm() {
                 </svg>
               </span>
               <a
-                href="https://wa.me/525660594172"
+                href="https://wa.me/525554084046"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:underline"
               >
-                56 6059 4172
+                55 5408 4046
               </a>
             </div>
             <div className="flex items-center gap-2 text-base">

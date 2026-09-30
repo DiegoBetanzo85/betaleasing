@@ -154,8 +154,8 @@ export default function AvisoPrivacidad() {
                 <p className="text-gray-700 leading-relaxed">
                   <strong>BETA LEASING, S.A.P.I. DE C.V.</strong>, sociedad
                   anónima promotora de inversión de capital variable, con
-                  domicilio en Isaac Newton No. 186 interior 401, Colonia
-                  Polanco, Delegación Miguel Hidalgo, México, C.P. 11560, Ciudad
+                  domicilio en Mariano Escobedo No. 350 interior 301, Colonia
+                  Anzures, Alcaldía Miguel Hidalgo, México, C.P. 11590, Ciudad
                   de México, teléfono (+52) (55) 8663-0720, es el responsable
                   del tratamiento de sus datos personales.
                 </p>
@@ -327,9 +327,9 @@ export default function AvisoPrivacidad() {
                     </h4>
                     <p className="text-gray-700 ml-4">
                       BETA LEASING, S.A.P.I. DE C.V., sociedad anónima promotora
-                      de inversión de capital variable, con domicilio en Isaac
-                      Newton No. 186 interior 401, Colonia Polanco, Delegación
-                      Miguel Hidalgo, México, C.P. 11560, Ciudad de México,
+                      de inversión de capital variable, con domicilio en Mariano
+                      Escobedo No. 350 interior 301, Colonia Anzures, Alcaldía
+                      Miguel Hidalgo, México, C.P. 11590, Ciudad de México,
                       teléfono (+52) (55) 8663-0720, correo electrónico:
                       dbetanzo@betaleasing.com
                     </p>
@@ -802,8 +802,8 @@ export default function AvisoPrivacidad() {
                       en la siguiente dirección electrónica:
                       www.betaleasing.com./Privacidad/ARCO, o personalmente ante
                       el Encargado de Privacidad de Datos (Comité), con horario
-                      de atención en: Isaac Newton No. 186 interior 401, Colonia
-                      Polanco, Delegación Miguel Hidalgo, México, C.P. 11560,
+                      de atención en: Mariano Escobedo No. 350 interior 301, Colonia
+                      Anzures, Alcaldía Miguel Hidalgo, México, C.P. 11590,
                       Ciudad de México. Teléfono: (+52) (55) 8663-0720 Correo
                       electrónico: dbetanzo@betaleasing.com
                     </p>
@@ -879,8 +879,8 @@ export default function AvisoPrivacidad() {
                       Encargado: DIEGO RAÚL BETANZO ZAYAS
                     </p>
                     <p className="text-gray-700 mb-1">
-                      Domicilio: Isaac Newton No. 186 interior 401, Colonia
-                      Polanco, Delegación Miguel Hidalgo, México, C.P. 11560,
+                      Domicilio: Mariano Escobedo No. 350 interior 301, Colonia
+                      Anzures, Alcaldía Miguel Hidalgo, México, C.P. 11590,
                       Ciudad de México
                     </p>
                     <p className="text-gray-700 mb-1">
