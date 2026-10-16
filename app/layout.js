@@ -11,6 +11,9 @@ const montserrat = Montserrat({
 export const metadata = {
   title: "Beta Leasing",
   description: "Beta Leasing es una empresa de arrendamiento",
+  verification: {
+    google: "JfQq_dsduY3i_rmYu_5rtmigjfNkjuHNXKv-TNYMt7A",
+  },
 };
 
 export default function RootLayout({ children }) {
